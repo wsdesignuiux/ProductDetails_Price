@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductDetails_Price</string>
+    <string name="cutprice"><strike>$250</strike></string>
+
+</resources>
